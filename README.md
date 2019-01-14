@@ -14,7 +14,7 @@ it will immediately get converted to:
 [here](http://ucnk.korpus.cz/srovnani10.php).
 * Only words longer than 3 letters **and** containing special characters are included.
 * The script was created by brute force: in one column I kept the list with special characters,
-in another column I removed the special characters. Hence there are many (over 9000) duplicates, such as:
+in another column I removed the special characters. Hence there are many (over 9000, less than 5%) duplicates, such as:
 ````autohotkey
 ::aktualizovany::aktualizovaný
 ::aktualizovany::aktualizovány
